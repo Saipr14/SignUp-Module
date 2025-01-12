@@ -127,6 +127,6 @@ This project is open-source and available under the MIT License.
 
 For any queries or suggestions, please contact:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
+- **Email**: saiprasanth67890@gmail.com
+- **GitHub**: [Saipr14](https://github.com/Saipr14)
 
